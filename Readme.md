@@ -2,7 +2,7 @@
 
 A minimalistic **MVC** (Model-View-Controller) Web Application with **CRUD** (create, read, update, delete) functionaly created with Node.js / MongoDB & Mongoose.js / Express.js and JSON
   
-API uthentication is provided using Json Web Token & Bcrypt  
+API authentication is provided using Json Web Token & Bcrypt  
 
 #### "As slight as possible"
 Since Express >= 4.16.0, body parser has been re-added under the methods express.json() and express.urlencoded(), this web app use only 2 dependency: [Express](https://expressjs.com) & [Mongoose](https://mongoosejs.com)
